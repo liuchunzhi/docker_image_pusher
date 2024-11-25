@@ -8,4 +8,5 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 #jianchong/vins-fusion:latest
 #sai2602/liosam-6axis:latest
-ecpe4s/ubuntu20.04:latest
+#ecpe4s/ubuntu20.04:latest
+osrf/ros:noetic-desktop-full
