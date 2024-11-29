@@ -9,4 +9,5 @@ nginx
 #jianchong/vins-fusion:latest
 #sai2602/liosam-6axis:latest
 #ecpe4s/ubuntu20.04:latest
-osrf/ros:noetic-desktop-full
+#osrf/ros:noetic-desktop-full
+ghcr.io/autowarefoundation/autoware-universe:latest-cuda
