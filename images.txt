@@ -11,4 +11,5 @@ nginx
 #ecpe4s/ubuntu20.04:latest
 #osrf/ros:noetic-desktop-full
 #ghcr.io/autowarefoundation/autoware-universe:latest-cuda
-carlasim/carla:0.9.15
+#carlasim/carla:0.9.15
+ubuntu:20.04
