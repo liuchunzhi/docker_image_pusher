@@ -12,4 +12,5 @@ nginx
 #osrf/ros:noetic-desktop-full
 #ghcr.io/autowarefoundation/autoware-universe:latest-cuda
 #carlasim/carla:0.9.15
-ubuntu:20.04
+#ubuntu:20.04
+fishros2/ros:noetic-desktop-full
