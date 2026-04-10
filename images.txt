@@ -15,4 +15,5 @@ nginx
 #ubuntu:20.04
 #fishros2/ros:noetic-desktop-full
 #osrf/ros:noetic-desktop-full
-rwthika/carla-ros-bridge:latest
+#rwthika/carla-ros-bridge:latest
+ros:noetic
