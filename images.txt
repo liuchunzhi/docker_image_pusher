@@ -16,4 +16,4 @@ nginx
 #fishros2/ros:noetic-desktop-full
 #osrf/ros:noetic-desktop-full
 #rwthika/carla-ros-bridge:latest
-arm64v8/ros:noetic
+--platform linux/arm64 --digest c84e573d2f2beb679ea5b03015eb2876e9962657c23d0073e4ae9d7ba41c4700 ros:noetic
