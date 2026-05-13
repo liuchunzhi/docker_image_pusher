@@ -17,4 +17,19 @@ nginx
 #osrf/ros:noetic-desktop-full
 #rwthika/carla-ros-bridge:latest
 #--platform linux/arm64 ros:noetic
-carlasim/carla:0.9.14
+#carlasim/carla:0.9.14
+apolloauto/apollo:dev-x86_64-18.04-20221124_1708
+apolloauto/apollo:map_volume-sunnyvale_big_loop-latest
+apolloauto/apollo:map_volume-sunnyvale_loop-latest
+apolloauto/apollo:map_volume-sunnyvale_with_two_offices-latest
+apolloauto/apollo:map_volume-san_mateo-latest
+apolloauto/apollo:map_volume-apollo_virutal_map-latest
+apolloauto/apollo:data_volume-audio_model-x86_64-latest
+apolloauto/apollo:traffic_light-detection_caffe_model-x86_64-latest
+apolloauto/apollo:traffic_light-horizontal_caffe_model-x86_64-latest
+apolloauto/apollo:traffic_light-quadrate_caffe_model-x86_64-latest
+apolloauto/apollo:traffic_light-recognition_caffe_model-x86_64-latest
+apolloauto/apollo:yolo_obstacle_model-x86_64-latest
+apolloauto/apollo:cnnseg_caffe_model-x86_64-latest
+apolloauto/apollo:lane_detection_model-x86_64-latest
+apolloauto/apollo:smoke_volume-yolo_obstacle_detection_model-x86_64-latest
